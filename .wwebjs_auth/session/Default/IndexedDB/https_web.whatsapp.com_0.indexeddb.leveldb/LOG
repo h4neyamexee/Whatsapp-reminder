@@ -1,0 +1,34 @@
+2025/07/18-19:02:26.443 5034 Reusing MANIFEST C:\Users\Talee\Downloads\whatsapp web\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-003365
+2025/07/18-19:02:26.450 5034 Recovering log #3522
+2025/07/18-19:02:26.584 5034 Reusing old log C:\Users\Talee\Downloads\whatsapp web\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/003522.log 
+2025/07/18-19:02:28.570 140c Level-0 table #3530: started
+2025/07/18-19:02:28.608 140c Level-0 table #3530: 1227331 bytes OK
+2025/07/18-19:02:28.609 140c Delete type=0 #3522
+2025/07/18-19:02:28.610 140c Manual compaction at level-0 from '\x00\xe2\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\xe3\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/07/18-19:02:29.949 32c4 Compacting 1@1 + 4@2 files
+2025/07/18-19:02:30.112 32c4 Generated table #3531@1: 65749 keys, 2232029 bytes
+2025/07/18-19:02:30.196 32c4 Generated table #3532@1: 15460 keys, 2162156 bytes
+2025/07/18-19:02:30.340 32c4 Generated table #3533@1: 50606 keys, 2210563 bytes
+2025/07/18-19:02:30.398 32c4 Generated table #3534@1: 47989 keys, 1012244 bytes
+2025/07/18-19:02:30.398 32c4 Compacted 1@1 + 4@2 files => 7616992 bytes
+2025/07/18-19:02:30.400 32c4 compacted to: files[ 0 0 4 0 0 0 0 ]
+2025/07/18-19:02:30.400 32c4 Delete type=2 #3524
+2025/07/18-19:02:30.400 32c4 Delete type=2 #3525
+2025/07/18-19:02:30.400 32c4 Delete type=2 #3526
+2025/07/18-19:02:30.400 32c4 Delete type=2 #3527
+2025/07/18-19:02:30.400 32c4 Delete type=2 #3530
+2025/07/18-22:40:42.539 b84 Level-0 table #3536: started
+2025/07/18-22:40:42.583 b84 Level-0 table #3536: 1391104 bytes OK
+2025/07/18-22:40:42.586 b84 Delete type=0 #3529
+2025/07/18-22:40:43.564 425c Compacting 1@1 + 4@2 files
+2025/07/18-22:40:43.740 425c Generated table #3537@1: 69691 keys, 2236744 bytes
+2025/07/18-22:40:43.792 425c Generated table #3538@1: 16510 keys, 2166328 bytes
+2025/07/18-22:40:43.853 425c Generated table #3539@1: 35996 keys, 2194166 bytes
+2025/07/18-22:40:43.911 425c Generated table #3540@1: 62884 keys, 1322932 bytes
+2025/07/18-22:40:43.911 425c Compacted 1@1 + 4@2 files => 7920170 bytes
+2025/07/18-22:40:43.913 425c compacted to: files[ 0 0 4 0 0 0 0 ]
+2025/07/18-22:40:43.913 425c Delete type=2 #3531
+2025/07/18-22:40:43.913 425c Delete type=2 #3532
+2025/07/18-22:40:43.913 425c Delete type=2 #3533
+2025/07/18-22:40:43.914 425c Delete type=2 #3534
+2025/07/18-22:40:43.914 425c Delete type=2 #3536

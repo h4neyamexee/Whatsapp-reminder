@@ -1,0 +1,15 @@
+2025/07/18-16:55:39.330 5058 Reusing MANIFEST C:\Users\Talee\Downloads\whatsapp web\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2025/07/18-16:55:39.331 5058 Recovering log #119
+2025/07/18-16:55:39.331 5058 Reusing old log C:\Users\Talee\Downloads\whatsapp web\.wwebjs_auth\session\Default\Local Storage\leveldb/000119.log 
+2025/07/18-18:32:57.029 5434 Level-0 table #123: started
+2025/07/18-18:32:57.035 5434 Level-0 table #123: 12473 bytes OK
+2025/07/18-18:32:57.062 5434 Delete type=0 #119
+2025/07/18-18:32:57.063 5434 Compacting 4@0 + 1@1 files
+2025/07/18-18:32:57.069 5434 Generated table #124@0: 367 keys, 13270 bytes
+2025/07/18-18:32:57.069 5434 Compacted 4@0 + 1@1 files => 13270 bytes
+2025/07/18-18:32:57.071 5434 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/07/18-18:32:57.072 5434 Delete type=2 #111
+2025/07/18-18:32:57.072 5434 Delete type=2 #114
+2025/07/18-18:32:57.072 5434 Delete type=2 #117
+2025/07/18-18:32:57.072 5434 Delete type=2 #120
+2025/07/18-18:32:57.072 5434 Delete type=2 #123

@@ -1,0 +1,12 @@
+2025/07/18-19:02:25.120 52a8 Reusing MANIFEST C:\Users\Talee\Downloads\whatsapp web\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2025/07/18-19:02:25.147 52a8 Recovering log #122
+2025/07/18-19:02:25.148 52a8 Reusing old log C:\Users\Talee\Downloads\whatsapp web\.wwebjs_auth\session\Default\Local Storage\leveldb/000122.log 
+2025/07/18-19:32:34.956 360c Level-0 table #127: started
+2025/07/18-19:32:34.962 360c Level-0 table #127: 13624 bytes OK
+2025/07/18-19:32:34.965 360c Delete type=0 #122
+2025/07/18-21:32:14.264 3804 Level-0 table #129: started
+2025/07/18-21:32:14.281 3804 Level-0 table #129: 13140 bytes OK
+2025/07/18-21:32:14.282 3804 Delete type=0 #126
+2025/07/18-22:48:15.269 316c Level-0 table #131: started
+2025/07/18-22:48:15.299 316c Level-0 table #131: 12985 bytes OK
+2025/07/18-22:48:15.301 316c Delete type=0 #128

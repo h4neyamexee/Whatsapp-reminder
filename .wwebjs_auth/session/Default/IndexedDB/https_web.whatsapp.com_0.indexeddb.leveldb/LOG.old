@@ -1,0 +1,4 @@
+2025/07/18-16:55:39.811 4aa4 Reusing MANIFEST C:\Users\Talee\Downloads\whatsapp web\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-003365
+2025/07/18-16:55:39.811 4aa4 Recovering log #3522
+2025/07/18-16:55:39.867 4aa4 Reusing old log C:\Users\Talee\Downloads\whatsapp web\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/003522.log 
+2025/07/18-16:55:42.769 55b8 Manual compaction at level-0 from '\x00\xe1\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\xe2\x00\x00\x00' @ 0 : 0; will stop at (end)
